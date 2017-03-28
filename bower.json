@@ -4,7 +4,7 @@
     "Stefan Tannhäuser"
   ],
   "description": "Canvas based video editor for web browser",
-  "main": "index.js",
+  "main": "video-editor.js",
   "keywords": [
     "video",
     "editor",
