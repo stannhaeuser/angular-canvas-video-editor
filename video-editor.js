@@ -4,8 +4,8 @@ function VideoEditorController() {
 
 }
 
-angular.module('video-editor').component('video-editor', {
-  templateUrl: 'index.html',
+angular.module('angular-canvas-video-editor').component('videoEditor', {
+  templateUrl: 'video-editor.html',
   controller: VideoEditorController,
   bindings: {
     hero: '='
