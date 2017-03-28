@@ -1,0 +1,23 @@
+{
+  "name": "angular-canvas-video-editor",
+  "authors": [
+    "Stefan Tannhäuser"
+  ],
+  "description": "Canvas based video editor for web browser",
+  "main": "index.js",
+  "keywords": [
+    "video",
+    "editor",
+    "browser",
+    "canvas"
+  ],
+  "license": "MIT",
+  "homepage": "www.broadcastics.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
